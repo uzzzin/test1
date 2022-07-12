@@ -1,0 +1,22 @@
+#server:
+#  port: 8080
+#
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+
+#    url: jdbc:mysql://cl6-3-db.cdqf0gxh6nhf.ap-northeast-2.rds.amazonaws.com:3306/honeydange
+#    username: song
+#    password: ausongsong
+#
+
+
+server:
+  port: 8081
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://cl6-3-db.cdqf0gxh6nhf.ap-northeast-2.rds.amazonaws.com:3306/honeydange
+    username: song
+    password: ausongsong
